@@ -4709,7 +4709,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #80000;
+  background-color: #800000;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -6108,7 +6108,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #80000 !important;
+  background-color: #800000 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
